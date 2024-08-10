@@ -52,7 +52,7 @@ img{
     font-size: 4rem;
 }
 .msg-container{
-    margin-top: 5rem;
+    margin: 5rem 0;
 }
 #msg {
  background-color: #081b31;
@@ -70,7 +70,6 @@ img{
     }
     #msg {
         
-        font-size: 16px;
-        padding: 5px;
+        font-size: 18px;
        }  
 }
